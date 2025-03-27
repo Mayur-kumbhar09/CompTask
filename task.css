@@ -38,7 +38,6 @@ p {
 
 /* Cart styles */
 #cart-container {
-    background-color: aqua !important;
     display: flex;
     flex-direction: column;
     justify-content: center;
